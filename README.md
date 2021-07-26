@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+Projeto em <b>flutter web</b> do processo seletivo Pumpkin.
 
 ## Getting Started
 
